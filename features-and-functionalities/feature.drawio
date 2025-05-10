@@ -1,9 +1,81 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="27.0.2">
   <diagram name="Page-1" id="599GoKlqOFhnaViAlhYG">
-    <mxGraphModel>
+    <mxGraphModel dx="915" dy="501" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="light-dark(#ffffff, #dfe7e2)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="yGeQ_LEW-tepAdacyJvv-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=light-dark(#000000,#000000);" edge="1" parent="1" source="yGeQ_LEW-tepAdacyJvv-1" target="yGeQ_LEW-tepAdacyJvv-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yGeQ_LEW-tepAdacyJvv-1" value="User Authentication" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="225" y="70" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yGeQ_LEW-tepAdacyJvv-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=light-dark(#000000,#000000);" edge="1" parent="1" source="yGeQ_LEW-tepAdacyJvv-3" target="yGeQ_LEW-tepAdacyJvv-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yGeQ_LEW-tepAdacyJvv-3" value="Registration" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="200" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yGeQ_LEW-tepAdacyJvv-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=light-dark(#000000,#000000);" edge="1" parent="1" source="yGeQ_LEW-tepAdacyJvv-5" target="yGeQ_LEW-tepAdacyJvv-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yGeQ_LEW-tepAdacyJvv-5" value="Login" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="270" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yGeQ_LEW-tepAdacyJvv-7" value="Profile Management" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="340" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yGeQ_LEW-tepAdacyJvv-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=light-dark(#000000,#000000);" edge="1" parent="1" source="yGeQ_LEW-tepAdacyJvv-9" target="yGeQ_LEW-tepAdacyJvv-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yGeQ_LEW-tepAdacyJvv-9" value="Property Management" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="70" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yGeQ_LEW-tepAdacyJvv-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=light-dark(#000000,#000000);" edge="1" parent="1" source="yGeQ_LEW-tepAdacyJvv-10" target="yGeQ_LEW-tepAdacyJvv-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yGeQ_LEW-tepAdacyJvv-10" value="CRUD Listing" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="200" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yGeQ_LEW-tepAdacyJvv-12" value="Search Features" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="270" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yGeQ_LEW-tepAdacyJvv-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="yGeQ_LEW-tepAdacyJvv-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="700" y="129.9999999999999" as="sourcePoint" />
+            <mxPoint x="700.0588235294117" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yGeQ_LEW-tepAdacyJvv-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=light-dark(#000000,#000000);" edge="1" parent="1" source="yGeQ_LEW-tepAdacyJvv-21" target="yGeQ_LEW-tepAdacyJvv-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yGeQ_LEW-tepAdacyJvv-21" value="Booking System" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="70" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yGeQ_LEW-tepAdacyJvv-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=light-dark(#000000,#000000);" edge="1" parent="1" source="yGeQ_LEW-tepAdacyJvv-23" target="yGeQ_LEW-tepAdacyJvv-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yGeQ_LEW-tepAdacyJvv-23" value="Payment" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="70" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yGeQ_LEW-tepAdacyJvv-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=light-dark(#000000,#000000);" edge="1" parent="1" source="yGeQ_LEW-tepAdacyJvv-24" target="yGeQ_LEW-tepAdacyJvv-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yGeQ_LEW-tepAdacyJvv-24" value="Create Booking" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="629" y="200" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yGeQ_LEW-tepAdacyJvv-26" value="Manage Booking" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="270" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yGeQ_LEW-tepAdacyJvv-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=light-dark(#000000,#000000);" edge="1" parent="1" source="yGeQ_LEW-tepAdacyJvv-28" target="yGeQ_LEW-tepAdacyJvv-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yGeQ_LEW-tepAdacyJvv-28" value="Process Payment" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="820" y="200" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yGeQ_LEW-tepAdacyJvv-30" value="Handle Payment" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="820" y="270" width="120" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
